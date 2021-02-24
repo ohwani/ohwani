@@ -19,12 +19,9 @@
 ### Connect me 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a> <a href="https://velog.io/@ohwani"><img src="https://img.shields.io/badge/Tech Blog-4FC08D?&style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
 
-<br><br><br>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohwani)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohwani)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=00C4CC)
 <!--
