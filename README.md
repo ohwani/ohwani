@@ -15,8 +15,12 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>
 <br>
+
 ### Connect me 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a> <a href="https://velog.io/@ohwani"><img src="https://img.shields.io/badge/Tech Blog-4FC08D?&style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ohwani7@gmail.com)](mailto:ohwani7@gmail.com) 
+[![Blog Badge](http://img.shields.io/badge/DevBlog-4FC08D?&style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@ohwani)](https://velog.io/@ohwani)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohwani)
 <br>
