@@ -1,11 +1,12 @@
-### Hi! I'm a Back-End Developer! 👋
+### Hi! I can deal with Python & Flask as Backend engineer! 👋
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&text=Always_Happy():%&fontSize=50&animation=twinkling)
 
-### About me
-- MBTI ENFP(재기발랄한 할동가) : '자유로운 사고의 소유자'
-- 변화를 두려워 하지 않고, 도전하는 삶을 추구합니다.
-- 운동하는 것을 좋아합니다.
-- 유관부서와 소통하는 것이 두렵지 않고, 부드러운 리더쉽으로 소통을 이끕니다.
+### About me:
+- 🧩 I'm looking for a job right now.
+- 💪 I’m currently studying node.js Backend Framework Framework.
+- 🏡 I’m currently live in Seoul, Korea.
+- 🐵 My is MBTI ENFP = '자유로운 사고의 소유자'
+- 🌱 Having a lot of passion for development
 <br><br>
 ### Technical Stack:
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
@@ -16,7 +17,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>
 <br>
 
-### Connect me 
+### Connect me: 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ohwani7@gmail.com)](mailto:ohwani7@gmail.com) 
 [![Blog Badge](http://img.shields.io/badge/DevBlog-4FC08D?&style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@ohwani)](https://velog.io/@ohwani)
