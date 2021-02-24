@@ -14,8 +14,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>
-<br><br><br>
-
+<br>
 ### Connect me 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a> <a href="https://velog.io/@ohwani"><img src="https://img.shields.io/badge/Tech Blog-4FC08D?&style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
 
