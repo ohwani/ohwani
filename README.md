@@ -17,8 +17,7 @@
 <br><br><br>
 
 ### Connect me 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Tech Blog-4FC08D?&style=for-the-badge&logo=Vimeo&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a> <a href="https://velog.io/@ohwani"><img src="https://img.shields.io/badge/Tech Blog-4FC08D?&style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
 
 <br><br><br>
 
