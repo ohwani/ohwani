@@ -5,7 +5,7 @@
 - 🧩 I'm looking for a job right now.
 - 💪 I’m currently studying Node.js Backend Framework.
 - 🏡 I’m currently live in Seoul, Korea.
-- 🐵 My is MBTI ENFP = '자유로운 사고의 소유자'.
+- 🐵 My is MBTI ENFP = '자유로운 사고의 소유자'
 - 🌱 Having a lot of passion for development.
 <br><br>
 ### Technical Stack:
